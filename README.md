@@ -22,7 +22,7 @@ A full-stack QR-based Restaurant Ordering & Management System built with Laravel
 ## 🏠 Customer Home Page
 
 <p align="center">
-  <img src="screenshot/Home%20Page.png" width="800"/>
+  <img src="screenshots/Home%20Page.png" width="800"/>
 </p>
 
 ---
@@ -30,7 +30,7 @@ A full-stack QR-based Restaurant Ordering & Management System built with Laravel
 ## 🛒 Order Page
 
 <p align="center">
-  <img src="screenshot/Order%20Page.png" width="800"/>
+  <img src="screenshots/Order%20Page.png" width="800"/>
 </p>
 
 ---
@@ -38,8 +38,8 @@ A full-stack QR-based Restaurant Ordering & Management System built with Laravel
 ## 💳 Checkout Pages
 
 <p align="center">
-  <img src="screenshot/Checkout%20Page.png" width="800"/>
-  <img src="screenshot/Checkout%20Page%202.png" width="800"/>
+  <img src="screenshots/Checkout%20Page.png" width="800"/>
+  <img src="screenshots/Checkout%20Page%202.png" width="800"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@ A full-stack QR-based Restaurant Ordering & Management System built with Laravel
 ## 📦 Active Order Tracking
 
 <p align="center">
-  <img src="screenshot/Active%20Order.png" width="800"/>
+  <img src="screenshots/Active%20Order.png" width="800"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@ A full-stack QR-based Restaurant Ordering & Management System built with Laravel
 ## 💰 Payment Page
 
 <p align="center">
-  <img src="screenshot/Payment%20Page.png" width="800"/>
+  <img src="screenshots/Payment%20Page.png" width="800"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ A full-stack QR-based Restaurant Ordering & Management System built with Laravel
 ## 📜 Order History
 
 <p align="center">
-  <img src="screenshot/Order%20History.png" width="800"/>
+  <img src="screenshots/Order%20History.png" width="800"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ A full-stack QR-based Restaurant Ordering & Management System built with Laravel
 ## 📢 Waiter Assistance Feature
 
 <p align="center">
-  <img src="screenshot/Waiter%20Call.png" width="800"/>
+  <img src="screenshots/Waiter%20Call.png" width="800"/>
 </p>
 
 ---
@@ -81,7 +81,7 @@ A full-stack QR-based Restaurant Ordering & Management System built with Laravel
 ## 📊 Dashboard Overview
 
 <p align="center">
-  <img src="screenshot/Dashboard%20Page.png" width="800"/>
+  <img src="screenshots/Dashboard%20Page.png" width="800"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ A full-stack QR-based Restaurant Ordering & Management System built with Laravel
 ## 🍔 Menu Management
 
 <p align="center">
-  <img src="screenshot/Dashboard%20Menu%20Page.png" width="800"/>
+  <img src="screenshots/Dashboard%20Menu%20Page.png" width="800"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ A full-stack QR-based Restaurant Ordering & Management System built with Laravel
 ## 🪑 Table Management
 
 <p align="center">
-  <img src="screenshot/Dashboard%20Table.png" width="800"/>
+  <img src="screenshots/Dashboard%20Table.png" width="800"/>
 </p>
 
 ---
